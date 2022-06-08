@@ -949,6 +949,7 @@ export class Program extends DiagnosticEmitter {
 
   /** Initializes the program and its elements prior to compilation. */
   initialize(): void {
+    debugger;
     if (this.initialized) return;
     this.initialized = true;
 

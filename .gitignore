@@ -5,7 +5,6 @@ build/
 raw/
 .history
 *.backup
-.vscode
 .idea
 cli/index.generated.js
 src/diagnosticMessages.generated.ts
